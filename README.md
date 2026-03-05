@@ -71,7 +71,7 @@ The project utilizes multiple high-quality STEM datasets:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Antoine444/QWEN-STEM-Tutor.git
+git clone https://github.com/LucasSimonnet/QWEN-STEM-Tutor.git
 cd QWEN-STEM-Tutor
 ```
 
@@ -346,7 +346,7 @@ For a quick demonstration of the STEM tutor capabilities:
 
 ```bash
 # 1. Setup environment
-git clone https://github.com/Antoine444/QWEN-STEM-Tutor.git
+git clone https://github.com/LucasSimonnet/QWEN-STEM-Tutor.git
 cd QWEN-STEM-Tutor
 pip install -r requirements.txt
 
@@ -370,13 +370,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hugging Face** for the transformers library and model hosting
 - **QWEN Team** for the base language model
 - **Academic Community** for the STEM datasets (MMLU, SciQ, AQUA-RAT, etc.)
-- **Contributors** who provided student preference data for DPO training, the CS-552 staff who assisted in the project, and my three friends ([Imane](https://github.com/imaneb942), [Najmeddine](https://github.com/najabba), [Lucas](https://github.com/LucasSimonnet)) with whom I worked on this project
+- **Contributors** who provided student preference data for DPO training, the CS-552 staff who assisted in the project, and my three friends ([Imane](https://github.com/imaneb942), [Najmeddine](https://github.com/najabba), [Antoine](https://github.com/Antoine444/)) with whom I worked on this project
 
 ## 📧 Contact
 
 For questions, suggestions, or collaboration opportunities:
 
-- **GitHub**: [@Antoine444](https://github.com/Antoine444)
-- **Project Repository**: [QWEN-STEM-Tutor](https://github.com/Antoine444/QWEN-STEM-Tutor)
+- **GitHub**: [@LucasSimonnet](https://github.com/LucasSimonnet)
+- **Project Repository**: [QWEN-STEM-Tutor](https://github.com/LucasSimonnet/QWEN-STEM-Tutor)
 
 ---
