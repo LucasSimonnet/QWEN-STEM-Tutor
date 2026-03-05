@@ -360,11 +360,6 @@ cd code
 
 # 4. The trained model will be saved and ready for inference
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Hugging Face** for the transformers library and model hosting
